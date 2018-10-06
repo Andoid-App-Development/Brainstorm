@@ -1,5 +1,3 @@
-# Group Activity - Benchmark & Brainstorm
-
 ## Favorite Existing Apps - List
 1. Instagram
 2. Netflix
@@ -51,26 +49,27 @@
 - **Story:** Allows users to easily order coffee and food beforehand to save time and quickly pickup from physical stores.
 - **Market:** Anyone who has access to Starbucks stores and a smartphone to download the app.
 - **Habit:** Users usually use the app to recieve points which ultimately add up to free drinks/food. This creates a habit for users to make it a routine to order. Users also use it to skip the line in stores and quickly pickup their orders.
-- **Scope:** Starbucks started with physical stores and made a mobile application which was extremely convenient and had a clean interface. This attracted their already existing customers as well as added new ones since users were basically able to demo the store products (menu) from the app.
+- **Scope:** Starbucks started with physical stores and made a mobile application which was extremely convenient and had a clean interface. This attracted their already existing customers and also added new ones since users were basically able to demo the store products (menu) from the app.
 
 ## New App Ideas - List
 
-### Student Books, Lab Reports, and Notes Sharing
-   - Allows for students to pass on books and notes used in classes after they're done using them for the semester. Instead dumping books into a collection of diferent books. The books will categorized based on the class and teacher it was used for.  The UI for the app will make it more user friendly, for example we have book used for Comp 200, that book will go into the Comp 200 class.Then we'll have a group of other classes for Comp Sci. with books in Comp 100, Comp 200, Comp 300. Those classes are under Computer Science, and Computer Science is under Engineering
+1. Student Books, Lab Reports, and Notes Sharing
+   - Allows for students to pass on books and class notes after they're done using them for the semester. Instead of dumping books into a collection of diferent books, they can be categorized based on the class and teacher it was used for.  The UI for the app will make it more user friendly. For example, we will have a book used for Comp 200, which will go into the Comp 200 class.Then we'll have a group of other classes for Comp Sci. with books in Comp 100, Comp 200, Comp 300. Those classes are under Computer Science, and Computer Science is under Engineering
    
-### Workout Suggestion
-    - Users can put up the time they have that they can work out on a day, and what body part(s) they would like to focus on, and app can offer them a list of exercises that they can do based on the information inputted based on body composition.
+2. Workout Suggestion
+    - Users can put up the time they have that they can work out on a day, and what body part(s) they would like to focus on, and app can offer them a list of exercises that they can do based on the information inputted and on body composition.
     
-### Coupon App
+3. Coupon App
     - This app allows students to scan the barcode of items to see available coupons for items and other stores that sell the same scanned item for less.
     
-### Free Parking App
+4. Free Parking App
     - Users can download this app and view a map of the roads where parking is free near their current location. This infomration would be updated according to the time since most signs say what time parking is free until.
     
-### Event Finder
+5. Event Finder
     - This app will focus on finding events near the user, according to their location and their budget.
     
 ## Top 3 New App Ideas
+
 1. Student Books, Lab Reports, and Notes Sharing
 2. Workout Suggestion
 3. Free Parking App
@@ -82,7 +81,7 @@
    - **Mobile:** It takes away the scenario of searching for ISBN numbers of books and not being able to find them. This app will have the opportunity to have inventory of requried books . 
    - **Story:** Allows users to share books and take away the stress of finding books for classes before assignments are given to them.
    - **Market:** With the potential base, we will need to interact with Universities to know the courses they provide. In knowing the courses we can then containers of the classes allowing for users to populate classes with their books. So each user experince will be uniquely different from each school. 
-   - **Habit:** This app is used throughout the semester, 
+   - **Habit:** This app is used throughout the semester.
    - **Scope:** We will have a foundational layout, but the hiearchy of class categories will be different each school. 
 
 ### 2. Workout Suggestion
