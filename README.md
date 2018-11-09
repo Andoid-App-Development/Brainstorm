@@ -1,4 +1,4 @@
-## APP_NAME_HERE
+## enSync
 
 ### App Description
 // TODO: Add App Description
