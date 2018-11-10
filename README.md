@@ -1,4 +1,4 @@
-## QSync
+# QSync
 
 ### App Description
 Allows for students to pass on books and class notes after they’re done using them for the semester. Instead of dumping books into a collection of diferent books, they can be categorized based on the class and teacher it was used for. The UI for the app will make it more user friendly. For example, we will have a book used for Comp 200, which will go into the Comp 200 class.Then we’ll have a group of other classes for Comp Sci. with books in Comp 100, Comp 200, Comp 300. Those classes are under Computer Science, and Computer Science is under Engineering
