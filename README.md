@@ -15,7 +15,7 @@ Allows for students to pass on books and class notes after they’re done using 
 ---
 
 
-### User Stories (Required and Optional)
+### User Stories
 
 **Required Must-have Stories**
 
